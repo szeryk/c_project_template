@@ -1,5 +1,5 @@
-# Example C development environment setup
-This is an example of how to set up a C development environment using CMake and clangd LSP.
+# Example C project structure with CMake and clangd LSP
+This is an example of how to set up a C project using CMake and clangd LSP.
 
 # How to use
 This example uses CMakePresets to configure the build system. With them, you can:
